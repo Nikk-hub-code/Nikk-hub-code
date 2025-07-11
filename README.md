@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nikk-hub-code you can also call me as NIKK.
 - 👀 I’m interested in programming and want to learn more and more.
-- 🌱 I’m currently practicing C++ and Python simultaneously.
+- 🌱 I’m currently practicing Wordpress and Python simultaneously.
 - 📫 If you want you can reach me through my LinkedIn(Kaushal Kumar Jha) or through my Insta(_kaushaljha.18).
+- I'm currently working on small projects like To-do-list App, Currency Converter and few more.
 
 
 <!---

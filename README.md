@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and want to learn more and more.
 - 🌱 I’m currently learning javascript and practicing Python simultaneously.
 - 📫 If you want you can reach me through my LinkedIn(Kaushal Kumar Jha) or through my Insta(_kaushaljha.18).
-- I'm currently working on small projects like To-do-list App, Currency Converter and few more.
+- I'm currently working on small projects like Tic-Tac-Toe game, Alarm Clock and few more.
 
 
 <!---

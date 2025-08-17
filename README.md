@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">I'm a passionate tech developer who loves to code and search for new technologies on daily basis and sharpen my skill in tech related stuffs.</h3>
 
-- 🌱 I’m currently learning **Javascript and ML**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **jhakaushal.1809@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_nikkode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nikkode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaushal kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kumar jha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikk18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal kumar jha" height="30" width="40" /></a>
 <a href="https://instagram.com/_kaushaljha.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kaushaljha.18" height="30" width="40" /></a>
 </p>
 

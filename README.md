@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal</h1>
 <h3 align="center">I'm a passionate tech developer who loves to code and search for new technologies on daily basis and sharpen my skill in tech related stuffs.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **JULIA Programming Language**
 
 - 📫 How to reach me **jhakaushal.1809@gmail.com**
 

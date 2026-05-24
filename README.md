@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushal Kumar Jha</h1>
-<h3 align="center">Aspiring AI/ML Engineer | AI Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Student | AI Enthusiast</h3>
 
 ---
 
@@ -7,9 +7,9 @@
 
 - 🎓 B.Tech Final Year Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning **Deep Learning, NLP, and Full Stack Development**
+- 🌱 Currently learning **Deep Learning, NLP, and few of the concepts**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on projects like **JUNE AI Assistant** and **Crop Recommendation System**
+- 🚀 Working on projects like **JUNE AI Assistant** and **Object Detection and Counting**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---

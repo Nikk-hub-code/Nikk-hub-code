@@ -9,7 +9,7 @@
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently learning **Deep Learning, NLP, and few of the concepts**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on projects like **JUNE AI Assistant** and **Object Detection and Counting**
+- 🚀 Working on projects like **JUNE AI Assistant**, **Object Detection and Counting** and **Fine Tuning my Portfolio**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---

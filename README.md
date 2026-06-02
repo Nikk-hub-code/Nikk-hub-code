@@ -9,7 +9,7 @@
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently learning **Deep Learning, NLP, and few of the concepts**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on projects like **JUNE AI Assistant**, **Object Detection and Counting** and **Fine Tuning my Portfolio**
+- 🚀 Working on projects like **JUNE AI Assistant**, **Object Detection & Counting** and **Fine Tuning my Portfolio**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---
@@ -17,31 +17,19 @@
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-- Python
-- C
-- HTML
-- CSS
-- Javascript
+- Python, C
 
 ### 🤖 AI / ML
-- Machine Learning
-- NLP
-- Deep Learning Basics
-- Scikit-learn
-- Pandas
-- NumPy
+- Machine Learning, NLP, Deep Learning Basics, Scikit-learn, Pandas, NumPy
 
 ### 🌐 Web Development
-- Flask
-- Responsive UI
+- HTML, CSS, Javascript, Flask, Responsive UI
 
 ### 🛢️ Database
 - MySQL
 
 ### 🔧 Tools
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
+- Git & GitHub, VS Code, Jupyter Notebook
 
 ---
 

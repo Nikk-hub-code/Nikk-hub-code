@@ -7,9 +7,9 @@
 
 - 🎓 B.Tech Final Year Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently learning **Deep Learning, NLP, and few of the concepts**
+- 🌱 Currently revising **DATA STRUCTURE & ALGORITHMS** and **Solving daily DSA problems**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on projects like **JUNE AI Assistant**, **Object Detection & Counting** and **Fine Tuning my Portfolio**
+- 🚀 Working on project -> **Semantic Search Engine**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---

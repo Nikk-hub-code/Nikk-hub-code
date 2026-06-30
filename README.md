@@ -9,7 +9,7 @@
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently revising **DATA STRUCTURE & ALGORITHMS** and **Solving daily DSA problems**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on project -> **Semantic Search Engine**
+- 🚀 Working on project -> **Semantic Search Engine** and **Reference Object Detection**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---

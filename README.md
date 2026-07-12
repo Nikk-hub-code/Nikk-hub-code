@@ -9,7 +9,7 @@
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 🌱 Currently revising **DATA STRUCTURE & ALGORITHMS** and **Solving daily DSA problems**
 - 💻 Love building AI-based projects and intelligent systems
-- 🚀 Working on project -> **Semantic Search Engine** and **Reference Object Detection**
+- 🚀 Working on project -> **Semantic Search Engine** and **Folder Documentation Generator**
 - 🎯 Goal: Become a skilled AI/ML Engineer
 
 ---
@@ -26,7 +26,7 @@
 - HTML, CSS, Javascript, Flask, Responsive UI
 
 ### 🛢️ Database
-- MySQL
+- MySQL, PostgreSQL(Recently started and learning)
 
 ### 🔧 Tools
 - Git & GitHub, VS Code, Jupyter Notebook

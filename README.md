@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech Final Year Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently revising **DATA STRUCTURE & ALGORITHMS** and **Solving daily DSA problems**
+- 🌱 Currently preparing for the **Interviews**
 - 💻 Love building AI-based projects and intelligent systems
 - 🚀 Working on project -> **Reference Object Detection**
 - 🎯 Goal: Become a skilled AI/ML Engineer

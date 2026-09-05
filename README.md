@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech Final Year Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌱 Currently preparing for the **Interviews**
+- 🌱 Currently working on **Frameworks(Django, FastAPI)**
 - 💻 Love building AI-based projects and intelligent systems
 - 🚀 Working on project -> **Reference Object Detection**
 - 🎯 Goal: Become a skilled AI/ML Engineer

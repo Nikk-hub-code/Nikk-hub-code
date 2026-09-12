@@ -20,13 +20,13 @@
 - Python, C
 
 ### 🤖 AI / ML
-- Machine Learning, NLP, Deep Learning Basics, Scikit-learn, Pandas, NumPy
+- Machine Learning, Deep Learning Basics, Scikit-learn, Pandas, NumPy
 
 ### 🌐 Web Development
-- HTML, CSS, Javascript, Flask, Responsive UI
+- HTML, CSS, Javascript, Responsive UI
 
 ### 🛢️ Database
-- MySQL, PostgreSQL(Recently started and learning)
+- MySQL, PostgreSQL(Recently started learning)
 
 ### 🔧 Tools
 - Git & GitHub, VS Code, Jupyter Notebook

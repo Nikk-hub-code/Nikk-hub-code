@@ -26,7 +26,7 @@ I'm someone who believes in **building intelligent solutions, not just writing c
 * 🎓 **B.Tech Final Year Student** — strengthening fundamentals in Computer Science & AI
 * 🤖 **AI & Machine Learning Enthusiast** — passionate about ML, Deep Learning & smart systems
 * ⚙️ **Backend & APIs** — crafting efficient backends with **Django** & **FastAPI**
-* 🚀 **Current Focus** — engineering a **Reference Object Detection** project
+* 🚀 **Current Focus** — preparing for the placement drive.
 * 🎯 **Career Goal** — striving to become a high-impact, industry-ready **AI/ML Engineer**
 
 </td>
